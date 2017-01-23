@@ -123,7 +123,7 @@
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="JXz-9r-t5e">
                                                 <rect key="frame" x="257.5" y="0.0" width="85.5" height="129.5"/>
-                                                <state key="normal" title="ー"/>
+                                                <state key="normal" title="-"/>
                                                 <connections>
                                                     <action selector="operatorButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yEj-nG-Owh"/>
                                                 </connections>
@@ -156,7 +156,7 @@
                                             </button>
                                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="miJ-mu-Nzc">
                                                 <rect key="frame" x="257.5" y="0.0" width="85.5" height="129.5"/>
-                                                <state key="normal" title="＋"/>
+                                                <state key="normal" title="+"/>
                                                 <connections>
                                                     <action selector="operatorButtonTapped:" destination="BYZ-38-t0r" eventType="touchUpInside" id="b3Y-go-K6p"/>
                                                 </connections>
